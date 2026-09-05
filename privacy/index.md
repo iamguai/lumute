@@ -11,7 +11,7 @@ description: Privacy Policy for the Lumute app
 
 ## English
 
-**Last updated: September 4, 2026**
+**Last updated: September 6, 2026**
 
 This Privacy Policy explains the information Lumute processes when you use the App. Lumute currently provides football schedules, scores, team form, match summaries, match insights, and a feedback feature.
 
@@ -52,7 +52,7 @@ This policy does not make a specific claim about server-side retention periods, 
 
 ### 5. Retention and Deletion
 
-The server-side retention period and deletion process for feedback data are currently **待确认 / To be confirmed**. Please contact us if you have a privacy question or a request concerning feedback data.
+For user comments or feedback that have been fully processed, the data is periodically deleted from the server. Any such feedback data is retained for no longer than one year. “Periodically” does not mean on a fixed schedule and does not guarantee immediate deletion.
 
 ### 6. Updates and Contact
 
@@ -64,7 +64,7 @@ For privacy questions, contact **guai@live.com**.
 
 ## 简体中文
 
-**最后更新日期：2026年9月4日**
+**最后更新日期：2026年9月6日**
 
 本隐私政策说明您使用 Lumute 时，App 会处理哪些信息。Lumute 当前提供足球赛程、比分、球队状态、比赛摘要、比赛洞察及反馈功能。
 
@@ -105,7 +105,7 @@ For privacy questions, contact **guai@live.com**.
 
 ### 五、保存与删除
 
-反馈数据在服务端的保存期限和删除流程目前为**待确认**。如对反馈数据有隐私问题或提出相关请求，请联系我们。
+对于已经处理完成的用户意见或反馈，服务器会不定期清理。任何此类反馈数据的保存时间最长不超过一年。“不定期清理”不表示固定清理周期，也不保证立即删除。
 
 ### 六、政策更新与联系我们
 
@@ -117,7 +117,7 @@ For privacy questions, contact **guai@live.com**.
 
 ## 日本語
 
-**最終更新日：2026年9月4日**
+**最終更新日：2026年9月6日**
 
 本プライバシーポリシーは、Lumute の利用時に App が取り扱う情報を説明します。Lumute は現在、サッカーの日程、スコア、チームフォーム、試合サマリー、試合インサイト、フィードバック機能を提供しています。
 
@@ -158,7 +158,7 @@ For privacy questions, contact **guai@live.com**.
 
 ### 5. 保存と削除
 
-フィードバックデータのサーバー上の保存期間と削除手順は現在**確認中**です。フィードバックデータについてプライバシーに関する質問や申請がある場合は、お問い合わせください。
+処理が完了したユーザーの意見またはフィードバックは、サーバー上で不定期に削除されます。このようなフィードバックデータの保存期間は最長でも1年です。「不定期に削除される」とは、固定された削除周期を意味せず、直ちに削除されることを保証するものでもありません。
 
 ### 6. 更新とお問い合わせ
 
@@ -170,7 +170,7 @@ App の機能または情報の取扱いが変更された場合、本ポリシ�
 
 ## Español
 
-**Última actualización: 4 de septiembre de 2026**
+**Última actualización: 6 de septiembre de 2026**
 
 Esta Política de privacidad explica qué información trata Lumute cuando utiliza la App. Actualmente, Lumute ofrece calendarios, resultados, estado de los equipos, resúmenes, análisis de partidos y una función de Feedback.
 
@@ -211,7 +211,7 @@ Los periodos de conservación en el servidor, los procesos de eliminación, los 
 
 ### 5. Conservación y eliminación
 
-El periodo de conservación y el proceso de eliminación de los datos de Feedback en el servidor están actualmente **pendientes de confirmación**. Si tiene una pregunta o solicitud de privacidad relacionada con los datos de Feedback, póngase en contacto con nosotros.
+Los comentarios o las opiniones de los usuarios cuyo tratamiento se haya completado se eliminan del servidor de forma ocasional y sin una frecuencia fija. Cualquier dato de este tipo se conserva durante un máximo de un año. La eliminación ocasional no implica un calendario fijo ni garantiza la eliminación inmediata.
 
 ### 6. Actualizaciones y contacto
 
