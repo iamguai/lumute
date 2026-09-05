@@ -211,7 +211,7 @@ Los periodos de conservación en el servidor, los procesos de eliminación, los 
 
 ### 5. Conservación y eliminación
 
-Los comentarios o las opiniones de los usuarios cuyo tratamiento se haya completado se eliminan del servidor de forma ocasional y sin una frecuencia fija. Cualquier dato de este tipo se conserva durante un máximo de un año. La eliminación ocasional no implica un calendario fijo ni garantiza la eliminación inmediata。
+Los comentarios o las opiniones de los usuarios cuyo tratamiento se haya completado se eliminan del servidor de forma ocasional y sin una frecuencia fija. Cualquier dato de este tipo se conserva durante un máximo de un año. La eliminación ocasional no implica un calendario fijo ni garantiza la eliminación inmediata.
 
 ### 6. Actualizaciones y contacto
 
