@@ -48,7 +48,7 @@ The current version does not request access to location, camera, photos, contact
 
 Feedback requests are sent to Lumute's backend service. The request currently includes the feedback message and the backend-required language information.
 
-This policy does not make a specific claim about server-side retention periods, deletion workflows, infrastructure providers, or other third-party processing because those details require confirmation. This section will be updated when the relevant service information is confirmed.
+This policy does not make a specific claim about infrastructure providers or other third-party processing because those details require confirmation. This section will be updated when the relevant service information is confirmed.
 
 ### 5. Retention and Deletion
 
@@ -101,7 +101,7 @@ For privacy questions, contact **guai@live.com**.
 
 反馈请求会发送至 Lumute 后端服务。当前请求包含反馈留言和后端所需的语言信息。
 
-由于服务端保存期限、删除流程、基础设施提供商及其他第三方处理信息仍需确认，本政策暂不对这些事项作出具体描述。相关服务信息确认后，我们会更新本节。
+由于基础设施提供商及其他第三方处理信息仍需确认，本政策暂不对这些事项作出具体描述。相关服务信息确认后，我们会更新本节。
 
 ### 五、保存与删除
 
@@ -154,7 +154,7 @@ For privacy questions, contact **guai@live.com**.
 
 フィードバックリクエストは Lumute のバックエンドサービスへ送信されます。現在のリクエストには、フィードバックメッセージとバックエンドが必要とする言語情報が含まれます。
 
-サーバー上の保存期間、削除手順、インフラ提供者、その他の第三者による処理については確認が必要なため、本ポリシーでは具体的な説明をしていません。関連情報が確認され次第、本節を更新します。
+インフラ提供者およびその他の第三者による処理については確認が必要なため、本ポリシーでは具体的な説明をしていません。関連情報が確認され次第、本節を更新します。
 
 ### 5. 保存と削除
 
@@ -207,7 +207,7 @@ La versión actual tampoco solicita acceso a la ubicación, cámara, fotos, cont
 
 Las solicitudes de Feedback se envían al servicio backend de Lumute. Actualmente incluyen el mensaje y la información de idioma necesaria para el backend.
 
-Los periodos de conservación en el servidor, los procesos de eliminación, los proveedores de infraestructura y otros tratamientos por terceros requieren confirmación. Por ese motivo, esta política no hace afirmaciones específicas sobre esos puntos. Actualizaremos esta sección cuando se confirme la información correspondiente.
+Los proveedores de infraestructura y otros tratamientos por terceros requieren confirmación. Por ese motivo, esta política no hace afirmaciones específicas sobre esos puntos. Actualizaremos esta sección cuando se confirme la información correspondiente.
 
 ### 5. Conservación y eliminación
 
