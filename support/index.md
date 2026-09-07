@@ -19,7 +19,7 @@ No. Lumute 1.0 does not require registration or sign-in. It has no advertising, 
 
 ### How do I send feedback?
 
-In Lumute, open **Support > Feedback**. You can submit a message and view replies without creating an account. A random anonymous identifier connects your messages and replies; please do not include unnecessary sensitive personal information.
+In Lumute, open **Support > Feedback**. You can submit a message and receive the submission status returned by the server without creating an account. The request uses the message and the language information required by the backend. The current flow does not create or send a temporary ID, anonymous ID, account ID, or feedback ID. It does not provide a public inbox, feedback history, feedback details, or a latest-reply view. Please do not include unnecessary sensitive personal information.
 
 ### What should I do if match data does not load?
 
@@ -27,8 +27,6 @@ In Lumute, open **Support > Feedback**. You can submit a message and view replie
 2. If you use cellular data, confirm that Lumute is allowed to access it in iOS Settings.
 3. Return to Lumute and reload the page, or try another available network.
 4. If other apps work but Lumute remains unavailable, the service may be temporarily interrupted. Note the time and affected screen, then send the details through **Support > Feedback** after service is restored.
-
-Repeatedly reinstalling the App usually does not resolve a server interruption and may remove the anonymous feedback identifier stored on the device.
 
 ### How are match data and insights produced?
 
@@ -59,7 +57,7 @@ Lumute 以清晰、专注的多语言体验提供足球赛程、比分、球队�
 
 ### 如何提交反馈？
 
-请在 Lumute 中打开 **“支持 > 反馈”**。无需创建账户即可提交留言并查看回复。系统使用随机匿名标识符关联您的留言和回复；请勿填写不必要的敏感个人信息。
+请在 Lumute 中打开 **“支持 > 反馈”**。无需创建账户即可提交留言，并查看服务器返回的提交状态。请求会发送留言和后端所需的语言信息。当前流程不会创建或发送临时 ID、匿名 ID、账户 ID 或 feedback ID，也不提供公开收件箱、反馈历史、反馈详情或最新回复入口。请勿填写不必要的敏感个人信息。
 
 ### 比赛数据无法加载怎么办？
 
@@ -67,8 +65,6 @@ Lumute 以清晰、专注的多语言体验提供足球赛程、比分、球队�
 2. 如果使用蜂窝网络，请在 iOS 设置中确认已允许 Lumute 使用蜂窝数据。
 3. 返回 Lumute 重新加载页面，或切换到其他可用网络。
 4. 如果其他 App 和网页可以正常访问，但 Lumute 长时间不可用，可能是服务暂时中断。请记录发生时间和无法打开的页面，服务恢复后通过 **“支持 > 反馈”** 发送相关信息。
-
-反复重新安装 App 通常无法解决服务器中断问题，还可能清除设备中保存的匿名反馈标识符。
 
 ### 比赛数据和洞察如何生成？
 
@@ -99,7 +95,7 @@ Lumute は、サッカーの日程、スコア、チームフォーム、試合�
 
 ### フィードバックを送信するには？
 
-Lumute で **「サポート > フィードバック」** を開いてください。アカウントを作成せずにメッセージを送信し、返信を確認できます。ランダムな匿名識別子を使用してメッセージと返信を関連付けます。不要な機微情報は入力しないでください。
+Lumute で **「サポート > フィードバック」** を開いてください。アカウントを作成せずにメッセージを送信し、サーバーが返す送信状態を確認できます。リクエストにはメッセージとバックエンドに必要な言語情報が含まれます。現在のフローでは、一時 ID、匿名 ID、アカウント ID、feedback ID を作成または送信せず、公開受信箱、フィードバック履歴、フィードバック詳細、最新の返信画面も提供していません。不要な機微情報は入力しないでください。
 
 ### 試合データを読み込めない場合は？
 
@@ -107,8 +103,6 @@ Lumute で **「サポート > フィードバック」** を開いてくださ�
 2. モバイルデータ通信を使用する場合は、iOS の設定で Lumute の通信が許可されていることを確認してください。
 3. Lumute に戻ってページを再読み込みするか、別の利用可能なネットワークをお試しください。
 4. 他の App やウェブサイトは利用できるのに Lumute だけが長時間利用できない場合、サービスが一時的に停止している可能性があります。発生時刻と開けなかった画面を記録し、復旧後に **「サポート > フィードバック」** からお知らせください。
-
-App を繰り返し再インストールしてもサーバー停止は通常解決せず、端末に保存された匿名フィードバック識別子が削除される場合があります。
 
 ### 試合データとインサイトはどのように作られますか？
 
@@ -139,7 +133,7 @@ No. Lumute 1.0 no requiere registro ni inicio de sesión y no contiene publicida
 
 ### ¿Cómo envío comentarios?
 
-En Lumute, abra **Ayuda > Feedback**. Puede enviar un mensaje y consultar las respuestas sin crear una cuenta. Un identificador anónimo aleatorio relaciona sus mensajes y respuestas. No incluya información personal sensible que no sea necesaria.
+En Lumute, abra **Ayuda > Feedback**. Puede enviar un mensaje y recibir el estado del envío devuelto por el servidor sin crear una cuenta. La solicitud utiliza el mensaje y la información de idioma necesaria para el backend. El flujo actual no crea ni envía un ID temporal, ID anónimo, ID de cuenta ni feedback ID. Tampoco ofrece una bandeja de entrada pública, historial de Feedback, detalles de Feedback ni una vista de las respuestas más recientes. No incluya información personal sensible que no sea necesaria.
 
 ### ¿Qué hago si no se cargan los datos de los partidos?
 
@@ -147,8 +141,6 @@ En Lumute, abra **Ayuda > Feedback**. Puede enviar un mensaje y consultar las re
 2. Si utiliza datos móviles, confirme en los ajustes de iOS que Lumute puede acceder a ellos.
 3. Vuelva a Lumute y recargue la página, o pruebe otra red disponible.
 4. Si otras apps funcionan pero Lumute sigue sin estar disponible, es posible que el servicio esté interrumpido temporalmente. Anote la hora y la pantalla afectada y envíe esta información mediante **Ayuda > Feedback** cuando el servicio se restablezca.
-
-Reinstalar repetidamente la App normalmente no resuelve una interrupción del servidor y puede eliminar el identificador anónimo de Feedback guardado en el dispositivo.
 
 ### ¿Cómo se generan los datos y análisis de partidos?
 
