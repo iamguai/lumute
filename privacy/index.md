@@ -46,7 +46,7 @@ The current version does not request access to location, camera, photos, contact
 
 ### 4. Servers and Sharing
 
-The feedback message and the language information required by the backend are sent to Lumute's backend service to process feedback. Football match data is provided by API-Football. API-Football is a match-data provider; this policy does not state that feedback is sent to API-Football or that API-Football hosts Lumute's servers. Other infrastructure providers or third-party processing are not described in this policy.
+The feedback message and the language information required by the backend are sent to Lumute's backend service to process feedback. Football match data is provided by API-Football.
 
 ### 5. Retention and Deletion
 
@@ -97,7 +97,7 @@ For privacy questions or deletion requests, contact **support@lumute.com**. We d
 
 ### 四、服务器与共享
 
-反馈留言和后端所需的语言信息会发送至 Lumute 后端服务，用于处理反馈。足球赛事数据由 API-Football 提供。API-Football 是赛事数据提供商；本政策不表示反馈会发送给 API-Football，也不表示 API-Football 托管 Lumute 服务器。其他基础设施提供商或第三方处理方式不在本政策中作具体说明。
+反馈留言和后端所需的语言信息会发送至 Lumute 后端服务，用于处理反馈。足球赛事数据由 API-Football 提供。
 
 ### 五、保存与删除
 
@@ -148,7 +148,7 @@ For privacy questions or deletion requests, contact **support@lumute.com**. We d
 
 ### 4. サーバーと共有
 
-フィードバックメッセージとバックエンドに必要な言語情報は、フィードバックを処理するため Lumute のバックエンドサービスへ送信されます。サッカーの試合データは API-Football が提供します。API-Football は試合データの提供者であり、本ポリシーはフィードバックが API-Football に送信されること、または API-Football が Lumute のサーバーをホスティングすることを示すものではありません。その他のインフラ提供者や第三者による処理については、本ポリシーでは具体的に説明していません。
+フィードバックメッセージとバックエンドに必要な言語情報は、フィードバックを処理するため Lumute のバックエンドサービスへ送信されます。サッカーの試合データは API-Football が提供します。
 
 ### 5. 保存と削除
 
@@ -199,7 +199,7 @@ La versión actual tampoco solicita acceso a la ubicación, cámara, fotos, cont
 
 ### 4. Servidores y divulgación
 
-El mensaje de Feedback y la información de idioma necesaria para el backend se envían al servicio backend de Lumute para procesar el Feedback. Los datos de los partidos de fútbol los proporciona API-Football. API-Football es un proveedor de datos de partidos; esta política no afirma que el Feedback se envíe a API-Football ni que API-Football aloje los servidores de Lumute. Esta política no describe otros proveedores de infraestructura ni otros tratamientos por terceros.
+El mensaje de Feedback y la información de idioma necesaria para el backend se envían al servicio backend de Lumute para procesar el Feedback. Los datos de los partidos de fútbol los proporciona API-Football.
 
 ### 5. Conservación y eliminación
 
