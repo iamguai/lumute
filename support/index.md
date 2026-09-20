@@ -38,10 +38,10 @@ Please read the [Lumute Privacy Policy](../privacy/). The current version does n
 
 ### Contact
 
-For app issues, general feedback, feature requests, or privacy questions:
+For app issues, general feedback, feature requests, privacy questions, or deletion requests:
 
 - In the App: **Support > Feedback**
-- Email: **guai@live.com**
+- Email: **support@lumute.com**
 
 When contacting us, include the affected screen, approximate time, iOS version, and a short description. Do not send passwords, identity documents, payment information, or other unnecessary sensitive information.
 
@@ -76,10 +76,10 @@ Lumute 以清晰、专注的多语言体验提供足球赛程、比分、球队�
 
 ### 联系我们
 
-如需咨询 App 故障、一般反馈、功能建议或隐私问题：
+如需咨询 App 故障、一般反馈、功能建议、隐私问题或提出删除请求：
 
 - App 内：**“支持 > 反馈”**
-- 电子邮件：**guai@live.com**
+- 电子邮件：**support@lumute.com**
 
 联系我们时，请提供发生问题的页面、大致时间、iOS 版本和简要说明。请勿发送密码、身份证件、支付信息或其他不必要的敏感信息。
 
@@ -114,10 +114,10 @@ Lumute で **「サポート > フィードバック」** を開いてくださ�
 
 ### お問い合わせ
 
-App の不具合、一般的なフィードバック、機能要望、プライバシーに関するご質問：
+App の不具合、一般的なフィードバック、機能要望、プライバシーに関するご質問、削除の申請：
 
 - App 内：**「サポート > フィードバック」**
-- メール：**guai@live.com**
+- メール：**support@lumute.com**
 
 お問い合わせの際は、問題が発生した画面、おおよその時刻、iOS バージョン、状況の概要をお知らせください。パスワード、本人確認書類、決済情報、その他不要な機微情報は送信しないでください。
 
@@ -152,9 +152,9 @@ Consulte la [Política de privacidad de Lumute](../privacy/). La versión actual
 
 ### Contacto
 
-Para problemas de la App, comentarios generales, solicitudes de funciones o preguntas sobre privacidad:
+Para problemas de la App, comentarios generales, solicitudes de funciones、preguntas sobre privacidad o solicitudes de eliminación:
 
 - En la App: **Ayuda > Feedback**
-- Correo electrónico: **guai@live.com**
+- Correo electrónico: **support@lumute.com**
 
 Al contactar, indique la pantalla afectada, la hora aproximada, la versión de iOS y una breve descripción. No envíe contraseñas, documentos de identidad, información de pago ni otros datos sensibles innecesarios.
