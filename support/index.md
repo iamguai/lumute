@@ -152,7 +152,7 @@ Consulte la [Política de privacidad de Lumute](../privacy/). La versión actual
 
 ### Contacto
 
-Para problemas de la App, comentarios generales, solicitudes de funciones、preguntas sobre privacidad o solicitudes de eliminación:
+Para problemas de la App, comentarios generales, solicitudes de funciones, preguntas sobre privacidad o solicitudes de eliminación:
 
 - En la App: **Ayuda > Feedback**
 - Correo electrónico: **support@lumute.com**
