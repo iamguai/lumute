@@ -11,7 +11,7 @@ description: Privacy Policy for the Lumute app
 
 ## English
 
-**Last updated: September 6, 2026**
+**Last updated: September 20, 2026**
 
 This Privacy Policy explains the information Lumute processes when you use the App. Lumute currently provides football schedules, scores, team form, match summaries, match insights, and a feedback feature.
 
@@ -46,9 +46,7 @@ The current version does not request access to location, camera, photos, contact
 
 ### 4. Servers and Sharing
 
-Feedback requests are sent to Lumute's backend service. The request currently includes the feedback message and the backend-required language information.
-
-This policy does not make a specific claim about infrastructure providers or other third-party processing because those details require confirmation. This section will be updated when the relevant service information is confirmed.
+The feedback message and the language information required by the backend are sent to Lumute's backend service to process feedback. Football match data is provided by API-Football. API-Football is a match-data provider; this policy does not state that feedback is sent to API-Football or that API-Football hosts Lumute's servers. Other infrastructure providers or third-party processing are not described in this policy.
 
 ### 5. Retention and Deletion
 
@@ -58,13 +56,13 @@ For user comments or feedback that have been fully processed, the data is period
 
 We may update this policy when the App's features or information practices change. The updated version and date will be published on this page.
 
-For privacy questions, contact **guai@live.com**.
+For privacy questions or deletion requests, contact **support@lumute.com**. We do not promise a specific response or completion time.
 
 ---
 
 ## 简体中文
 
-**最后更新日期：2026年9月6日**
+**最后更新日期：2026年9月20日**
 
 本隐私政策说明您使用 Lumute 时，App 会处理哪些信息。Lumute 当前提供足球赛程、比分、球队状态、比赛摘要、比赛洞察及反馈功能。
 
@@ -99,9 +97,7 @@ For privacy questions, contact **guai@live.com**.
 
 ### 四、服务器与共享
 
-反馈请求会发送至 Lumute 后端服务。当前请求包含反馈留言和后端所需的语言信息。
-
-由于基础设施提供商及其他第三方处理信息仍需确认，本政策暂不对这些事项作出具体描述。相关服务信息确认后，我们会更新本节。
+反馈留言和后端所需的语言信息会发送至 Lumute 后端服务，用于处理反馈。足球赛事数据由 API-Football 提供。API-Football 是赛事数据提供商；本政策不表示反馈会发送给 API-Football，也不表示 API-Football 托管 Lumute 服务器。其他基础设施提供商或第三方处理方式不在本政策中作具体说明。
 
 ### 五、保存与删除
 
@@ -111,13 +107,13 @@ For privacy questions, contact **guai@live.com**.
 
 当 App 功能或信息处理方式发生变化时，我们可能更新本政策，并在本页面公布更新内容和日期。
 
-如有隐私问题，请联系 **guai@live.com**。
+如有隐私问题或希望提出删除请求，请联系 **support@lumute.com**。我们不承诺具体的回复或处理完成时间。
 
 ---
 
 ## 日本語
 
-**最終更新日：2026年9月6日**
+**最終更新日：2026年9月20日**
 
 本プライバシーポリシーは、Lumute の利用時に App が取り扱う情報を説明します。Lumute は現在、サッカーの日程、スコア、チームフォーム、試合サマリー、試合インサイト、フィードバック機能を提供しています。
 
@@ -152,9 +148,7 @@ For privacy questions, contact **guai@live.com**.
 
 ### 4. サーバーと共有
 
-フィードバックリクエストは Lumute のバックエンドサービスへ送信されます。現在のリクエストには、フィードバックメッセージとバックエンドが必要とする言語情報が含まれます。
-
-インフラ提供者およびその他の第三者による処理については確認が必要なため、本ポリシーでは具体的な説明をしていません。関連情報が確認され次第、本節を更新します。
+フィードバックメッセージとバックエンドに必要な言語情報は、フィードバックを処理するため Lumute のバックエンドサービスへ送信されます。サッカーの試合データは API-Football が提供します。API-Football は試合データの提供者であり、本ポリシーはフィードバックが API-Football に送信されること、または API-Football が Lumute のサーバーをホスティングすることを示すものではありません。その他のインフラ提供者や第三者による処理については、本ポリシーでは具体的に説明していません。
 
 ### 5. 保存と削除
 
@@ -164,13 +158,13 @@ For privacy questions, contact **guai@live.com**.
 
 App の機能または情報の取扱いが変更された場合、本ポリシーを更新することがあります。更新内容と日付は本ページで公開します。
 
-プライバシーに関する質問は **guai@live.com** までご連絡ください。
+プライバシーに関する質問または削除の申請は **support@lumute.com** までご連絡ください。具体的な返信または完了時期はお約束していません。
 
 ---
 
 ## Español
 
-**Última actualización: 6 de septiembre de 2026**
+**Última actualización: 20 de septiembre de 2026**
 
 Esta Política de privacidad explica qué información trata Lumute cuando utiliza la App. Actualmente, Lumute ofrece calendarios, resultados, estado de los equipos, resúmenes, análisis de partidos y una función de Feedback.
 
@@ -205,9 +199,7 @@ La versión actual tampoco solicita acceso a la ubicación, cámara, fotos, cont
 
 ### 4. Servidores y divulgación
 
-Las solicitudes de Feedback se envían al servicio backend de Lumute. Actualmente incluyen el mensaje y la información de idioma necesaria para el backend.
-
-Los proveedores de infraestructura y otros tratamientos por terceros requieren confirmación. Por ese motivo, esta política no hace afirmaciones específicas sobre esos puntos. Actualizaremos esta sección cuando se confirme la información correspondiente.
+El mensaje de Feedback y la información de idioma necesaria para el backend se envían al servicio backend de Lumute para procesar el Feedback. Los datos de los partidos de fútbol los proporciona API-Football. API-Football es un proveedor de datos de partidos; esta política no afirma que el Feedback se envíe a API-Football ni que API-Football aloje los servidores de Lumute. Esta política no describe otros proveedores de infraestructura ni otros tratamientos por terceros.
 
 ### 5. Conservación y eliminación
 
@@ -217,4 +209,4 @@ Los comentarios o las opiniones de los usuarios cuyo tratamiento se haya complet
 
 Podemos actualizar esta política cuando cambien las funciones de la App o nuestras prácticas de tratamiento de información. Publicaremos el contenido y la fecha actualizados en esta página.
 
-Para preguntas sobre privacidad, escriba a **guai@live.com**.
+Para preguntas sobre privacidad o solicitudes de eliminación, escriba a **support@lumute.com**. No prometemos un plazo concreto de respuesta o finalización.
