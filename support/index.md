@@ -17,16 +17,12 @@ Lumute provides football schedules, scores, team form, match summaries, and data
 
 No. Lumute 1.0 does not require registration or sign-in. It has no advertising, subscriptions, or in-app purchases.
 
-### How do I send feedback?
-
-In Lumute, open **Support > Feedback**. You can submit a message and receive the submission status returned by the server without creating an account. The request uses the message and the language information required by the backend. The current flow does not create or send a temporary ID, anonymous ID, account ID, or feedback ID. It does not provide a public inbox, feedback history, feedback details, or a latest-reply view. Please do not include unnecessary sensitive personal information.
-
 ### What should I do if match data does not load?
 
 1. Confirm that your device is connected to Wi-Fi or cellular data.
 2. If you use cellular data, confirm that Lumute is allowed to access it in iOS Settings.
 3. Return to Lumute and reload the page, or try another available network.
-4. If other apps work but Lumute remains unavailable, the service may be temporarily interrupted. Note the time and affected screen, then send the details through **Support > Feedback** after service is restored.
+4. If other apps work but Lumute remains unavailable, the service may be temporarily interrupted. Note the time and affected screen, then contact us at **support@lumute.com**.
 
 ### How are match data and insights produced?
 
@@ -38,9 +34,8 @@ Please read the [Lumute Privacy Policy](../privacy/). The current version does n
 
 ### Contact
 
-For app issues, general feedback, feature requests, privacy questions, or deletion requests:
+For app issues, feature requests, privacy questions, or deletion requests:
 
-- In the App: **Support > Feedback**
 - Email: **support@lumute.com**
 
 When contacting us, include the affected screen, approximate time, iOS version, and a short description. Do not send passwords, identity documents, payment information, or other unnecessary sensitive information.
@@ -55,16 +50,12 @@ Lumute 以清晰、专注的多语言体验提供足球赛程、比分、球队�
 
 不需要。Lumute 1.0 无需注册或登录，也不包含广告、订阅或 App 内购买。
 
-### 如何提交反馈？
-
-请在 Lumute 中打开 **“支持 > 反馈”**。无需创建账户即可提交留言，并查看服务器返回的提交状态。请求会发送留言和后端所需的语言信息。当前流程不会创建或发送临时 ID、匿名 ID、账户 ID 或 feedback ID，也不提供公开收件箱、反馈历史、反馈详情或最新回复入口。请勿填写不必要的敏感个人信息。
-
 ### 比赛数据无法加载怎么办？
 
 1. 确认设备已连接 Wi-Fi 或已开启蜂窝移动数据。
 2. 如果使用蜂窝网络，请在 iOS 设置中确认已允许 Lumute 使用蜂窝数据。
 3. 返回 Lumute 重新加载页面，或切换到其他可用网络。
-4. 如果其他 App 和网页可以正常访问，但 Lumute 长时间不可用，可能是服务暂时中断。请记录发生时间和无法打开的页面，服务恢复后通过 **“支持 > 反馈”** 发送相关信息。
+4. 如果其他 App 和网页可以正常访问，但 Lumute 长时间不可用，可能是服务暂时中断。请记录发生时间和无法打开的页面，并通过 **support@lumute.com** 联系我们。
 
 ### 比赛数据和洞察如何生成？
 
@@ -76,9 +67,8 @@ Lumute 以清晰、专注的多语言体验提供足球赛程、比分、球队�
 
 ### 联系我们
 
-如需咨询 App 故障、一般反馈、功能建议、隐私问题或提出删除请求：
+如需咨询 App 故障、功能建议、隐私问题或提出删除请求：
 
-- App 内：**“支持 > 反馈”**
 - 电子邮件：**support@lumute.com**
 
 联系我们时，请提供发生问题的页面、大致时间、iOS 版本和简要说明。请勿发送密码、身份证件、支付信息或其他不必要的敏感信息。
@@ -93,16 +83,12 @@ Lumute は、サッカーの日程、スコア、チームフォーム、試合�
 
 必要ありません。Lumute 1.0 は登録やログインを必要とせず、広告、サブスクリプション、App 内課金もありません。
 
-### フィードバックを送信するには？
-
-Lumute で **「サポート > フィードバック」** を開いてください。アカウントを作成せずにメッセージを送信し、サーバーが返す送信状態を確認できます。リクエストにはメッセージとバックエンドに必要な言語情報が含まれます。現在のフローでは、一時 ID、匿名 ID、アカウント ID、feedback ID を作成または送信せず、公開受信箱、フィードバック履歴、フィードバック詳細、最新の返信画面も提供していません。不要な機微情報は入力しないでください。
-
 ### 試合データを読み込めない場合は？
 
 1. 端末が Wi-Fi またはモバイルデータ通信に接続されていることを確認してください。
 2. モバイルデータ通信を使用する場合は、iOS の設定で Lumute の通信が許可されていることを確認してください。
 3. Lumute に戻ってページを再読み込みするか、別の利用可能なネットワークをお試しください。
-4. 他の App やウェブサイトは利用できるのに Lumute だけが長時間利用できない場合、サービスが一時的に停止している可能性があります。発生時刻と開けなかった画面を記録し、復旧後に **「サポート > フィードバック」** からお知らせください。
+4. 他の App やウェブサイトは利用できるのに Lumute だけが長時間利用できない場合、サービスが一時的に停止している可能性があります。発生時刻と開けなかった画面を記録し、**support@lumute.com** までご連絡ください。
 
 ### 試合データとインサイトはどのように作られますか？
 
@@ -114,9 +100,8 @@ Lumute で **「サポート > フィードバック」** を開いてくださ�
 
 ### お問い合わせ
 
-App の不具合、一般的なフィードバック、機能要望、プライバシーに関するご質問、削除の申請：
+App の不具合、機能要望、プライバシーに関するご質問、削除の申請：
 
-- App 内：**「サポート > フィードバック」**
 - メール：**support@lumute.com**
 
 お問い合わせの際は、問題が発生した画面、おおよその時刻、iOS バージョン、状況の概要をお知らせください。パスワード、本人確認書類、決済情報、その他不要な機微情報は送信しないでください。
@@ -131,16 +116,12 @@ Lumute ofrece calendarios, resultados, estado de los equipos, resúmenes e infor
 
 No. Lumute 1.0 no requiere registro ni inicio de sesión y no contiene publicidad, suscripciones ni compras dentro de la App.
 
-### ¿Cómo envío comentarios?
-
-En Lumute, abra **Ayuda > Feedback**. Puede enviar un mensaje y recibir el estado del envío devuelto por el servidor sin crear una cuenta. La solicitud utiliza el mensaje y la información de idioma necesaria para el backend. El flujo actual no crea ni envía un ID temporal, ID anónimo, ID de cuenta ni feedback ID. Tampoco ofrece una bandeja de entrada pública, historial de Feedback, detalles de Feedback ni una vista de las respuestas más recientes. No incluya información personal sensible que no sea necesaria.
-
 ### ¿Qué hago si no se cargan los datos de los partidos?
 
 1. Confirme que el dispositivo está conectado a Wi-Fi o a datos móviles.
 2. Si utiliza datos móviles, confirme en los ajustes de iOS que Lumute puede acceder a ellos.
 3. Vuelva a Lumute y recargue la página, o pruebe otra red disponible.
-4. Si otras apps funcionan pero Lumute sigue sin estar disponible, es posible que el servicio esté interrumpido temporalmente. Anote la hora y la pantalla afectada y envíe esta información mediante **Ayuda > Feedback** cuando el servicio se restablezca.
+4. Si otras apps funcionan pero Lumute sigue sin estar disponible, es posible que el servicio esté interrumpido temporalmente. Anote la hora y la pantalla afectada y escríbanos a **support@lumute.com**.
 
 ### ¿Cómo se generan los datos y análisis de partidos?
 
@@ -152,9 +133,8 @@ Consulte la [Política de privacidad de Lumute](../privacy/). La versión actual
 
 ### Contacto
 
-Para problemas de la App, comentarios generales, solicitudes de funciones, preguntas sobre privacidad o solicitudes de eliminación:
+Para problemas de la App, solicitudes de funciones, preguntas sobre privacidad o solicitudes de eliminación:
 
-- En la App: **Ayuda > Feedback**
 - Correo electrónico: **support@lumute.com**
 
 Al contactar, indique la pantalla afectada, la hora aproximada, la versión de iOS y una breve descripción. No envíe contraseñas, documentos de identidad, información de pago ni otros datos sensibles innecesarios.
