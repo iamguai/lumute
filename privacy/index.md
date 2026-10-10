@@ -27,7 +27,7 @@ You do not need to provide your name, email address, or phone number to browse f
 
 Providing network services and investigating faults requires processing necessary network and diagnostic information, including IP addresses, request times, requested resources, and error information. This information is used only to fulfill requests, troubleshoot faults, and maintain service security, not for advertising or marketing.
 
-This information is retained only for the period needed to fulfill these purposes and is deleted when no longer needed.
+Nginx access logs are disabled and its error logs are discarded. FastAPI output is not saved, journald does not persist logs, and rsyslog is disabled. PostgreSQL does not log SQL statements or connections, and its error logging is limited to the most severe failures. Routine request IP addresses, paths, and timestamps are not retained. A severe database failure may still generate necessary system-level error information. Historical log files created earlier have not yet been cleared.
 
 ### 4. Third-Party Services
 
@@ -65,7 +65,7 @@ App 会向 Lumute 后端发送语言设置、版本标识及所查询赛事或�
 
 提供网络服务及排查故障时，需要处理必要的网络与诊断信息，包括 IP 地址、请求时间、请求资源及错误信息。这些信息仅用于完成请求、排查故障和维护服务安全，不用于广告或营销。
 
-相关信息仅在完成上述目的所需的期间内保存，不再需要时删除。
+为提供网络通信，系统可能需要处理 IP 等网络信息，但常规请求的 IP 地址、访问路径和时间不会被保留。Nginx 访问日志已关闭，错误日志被丢弃；FastAPI 输出不保存，journald 不持久化日志，rsyslog 已停用。PostgreSQL 不记录 SQL 语句或连接信息，仅在极端故障级别记录错误。极端数据库故障仍可能生成必要的系统级错误信息。此前生成的历史日志文件尚未清除。
 
 ### 四、第三方服务
 
@@ -103,7 +103,7 @@ App は、対応するコンテンツを返すために、言語設定、バー�
 
 ネットワークサービスの提供と障害調査のため、IP アドレス、リクエスト時刻、要求されたリソース、エラー情報など、必要なネットワーク情報と診断情報を取り扱います。これらはリクエストの処理、障害の調査、サービスの安全性の維持にのみ使用し、広告やマーケティングには使用しません。
 
-これらの情報は、上記の目的に必要な期間のみ保存し、不要になった時点で削除します。
+ネットワーク通信のため、IP アドレスなどのネットワーク情報を処理する場合がありますが、通常のリクエストの IP アドレス、アクセス先パス、時刻は保存していません。Nginx のアクセスログは無効で、エラーログは破棄されます。FastAPI の出力は保存されず、journald はログを永続化せず、rsyslog は停止しています。PostgreSQL は SQL 文や接続を記録せず、エラー記録は最も重大な障害レベルに限られます。重大なデータベース障害では、必要なシステムレベルのエラー情報が生成される場合があります。以前に生成された履歴ログファイルはまだ消去されていません。
 
 ### 4. 第三者サービス
 
@@ -141,7 +141,7 @@ No necesita facilitar su nombre, correo electrónico ni número de teléfono par
 
 Para prestar servicios de red e investigar fallos, se trata la información de red y diagnóstico necesaria, incluidas direcciones IP, horas de solicitud, recursos solicitados e información de errores. Se utiliza únicamente para atender solicitudes, investigar fallos y mantener la seguridad del servicio, no para publicidad ni marketing.
 
-Esta información se conserva solo durante el tiempo necesario para cumplir estos fines y se elimina cuando deja de ser necesaria.
+Para prestar servicios de red, el sistema puede procesar información de red como direcciones IP, pero no conserva las direcciones IP, las rutas solicitadas ni las horas de las solicitudes habituales. Los registros de acceso de Nginx están desactivados y sus registros de errores se descartan. La salida de FastAPI no se guarda, journald no conserva registros de forma persistente y rsyslog está desactivado. PostgreSQL no registra sentencias SQL ni conexiones, y sus registros de errores se limitan a los fallos más graves. Un fallo grave de la base de datos aún puede generar información de error necesaria a nivel del sistema. Los archivos de registro históricos generados anteriormente todavía no se han borrado.
 
 ### 4. Servicios de terceros
 
