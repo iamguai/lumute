@@ -11,202 +11,150 @@ description: Privacy Policy for the Lumute app
 
 ## English
 
-**Last updated: September 20, 2026**
+**Last updated: October 11, 2026**
 
-This Privacy Policy explains the information Lumute processes when you use the App. Lumute currently provides football schedules, scores, team form, match summaries, match insights, and a feedback feature.
+Lumute provides football information and analysis without requiring registration or sign-in. This policy explains how information is handled when you use Lumute.
 
-### 1. Information We Process
+### 1. Information Needed to Provide the Service
 
-When you submit feedback, Lumute processes:
+The App sends your language setting, a version identifier, and the identifiers of the matches or teams you request to Lumute's backend to return the relevant content. Language settings are managed by iOS and can be changed in system settings. This information is not used to build user profiles or for advertising tracking.
 
-- the message you enter in the feedback form;
-- the language information needed to support the selected language, which may be sent as a language code;
-- the submission status and message returned by the server.
+### 2. Device Permissions
 
-Lumute does not currently require an account or sign-in for feedback. The current feedback flow has one message field and a submission-status result. It does not provide a public inbox, feedback history, feedback details, or a latest-reply view.
+You do not need to provide your name, email address, or phone number to browse football information. The App does not request sensitive permissions such as location, camera, photos, contacts, or microphone access, and does not integrate advertising, user behavior analytics, or social sign-in SDKs.
 
-The App does not currently create or send a temporary ID, anonymous ID, account ID, or feedback ID with feedback requests.
+### 3. Network and Diagnostic Information
 
-### 2. How We Use Information
+Providing network services and investigating faults requires processing necessary network and diagnostic information, including IP addresses, request times, requested resources, and error information. This information is used only to fulfill requests, troubleshoot faults, and maintain service security, not for advertising or marketing.
 
-We use the information described above to:
+This information is retained only for the period needed to fulfill these purposes and is deleted when no longer needed.
 
-- receive and process feedback;
-- show the submission status returned by the server;
-- provide localized football content;
-- maintain and operate the feedback and football-content services.
+### 4. Third-Party Services
 
-Please do not include passwords, identity documents, payment information, or other unnecessary sensitive personal information in feedback.
+Football content is provided through Lumute's backend, with data sources including API‑SPORTS / API‑Football. When loading team logos, your device connects directly to API‑SPORTS' image service and transmits its IP address and the network information needed to fulfill the request.
 
-### 3. Information We Do Not Currently Request
+Service providers are required to process information only as needed to provide their services and to provide privacy protection no less than that required by this policy and applicable requirements. Details of API‑SPORTS' information practices, security measures, and access and deletion channels are available in its [Privacy Policy](https://api-sports.io/privacy). We do not sell personal information or use it for third-party advertising.
 
-The current version does not request or proactively collect your name, email address, telephone number, precise location, contacts, photos, audio or video, health data, payment information, advertising identifier, device model, Apple Account information, or Apple sign-in information.
+### 5. Contact and Deletion
 
-The current version does not request access to location, camera, photos, contacts, microphone, calendar, Bluetooth, health data, or App Tracking Transparency.
+Contact **support@lumute.com** with privacy questions or to request access to, correction of, or deletion of information relating to you. You may also withdraw consent for processing based on consent. We request only the verification information necessary to handle your request.
 
-### 4. Servers and Sharing
+If you choose to email us, we use your email address and message only to respond to and handle your request, and delete the related emails once the matter has been resolved.
 
-The feedback message and the language information required by the backend are sent to Lumute's backend service to process feedback. Football match data is provided by API-Football.
+### 6. Policy Updates
 
-### 5. Retention and Deletion
-
-For user comments or feedback that have been fully processed, the data is periodically deleted from the server. Any such feedback data is retained for no longer than one year. “Periodically” does not mean on a fixed schedule and does not guarantee immediate deletion.
-
-### 6. Updates and Contact
-
-We may update this policy when the App's features or information practices change. The updated version and date will be published on this page.
-
-For privacy questions or deletion requests, contact **support@lumute.com**. We do not promise a specific response or completion time.
+We will update this policy and its date when our information practices change. Where separate notice or consent is required, we will provide notice or obtain consent before the relevant processing begins.
 
 ---
 
 ## 简体中文
 
-**最后更新日期：2026年9月20日**
+**最后更新日期：2026年10月11日**
 
-本隐私政策说明您使用 Lumute 时，App 会处理哪些信息。Lumute 当前提供足球赛程、比分、球队状态、比赛摘要、比赛洞察及反馈功能。
+Lumute 提供足球赛事信息与分析服务，无需注册或登录。本政策说明您使用 Lumute 时的信息处理方式。
 
-### 一、我们处理的信息
+### 一、服务所需的信息
 
-当您提交反馈时，Lumute 会处理：
+App 会向 Lumute 后端发送语言设置、版本标识及所查询赛事或球队的编号，用于返回相应内容。语言设置由 iOS 系统管理，您可以通过系统设置修改。上述信息不用于建立用户画像或开展广告追踪。
 
-- 您在反馈输入框中填写的留言；
-- 支持当前语言所需的语言信息，可能以语言代码形式发送；
-- 服务器返回的提交状态和提示信息。
+### 二、设备权限
 
-当前版本的反馈功能不要求账户或登录。当前反馈流程只有一个留言输入框和提交状态结果，不提供公开收件箱、反馈历史、反馈详情或最新回复入口。
+浏览赛事无需提供姓名、邮箱或手机号。App 不请求定位、相机、相册、通讯录、麦克风等敏感权限，未接入广告、用户行为分析或社交登录 SDK。
 
-当前反馈请求不会创建或发送临时 ID、匿名 ID、账户 ID 或 feedback ID。
+### 三、网络与诊断信息
 
-### 二、信息使用目的
+提供网络服务及排查故障时，需要处理必要的网络与诊断信息，包括 IP 地址、请求时间、请求资源及错误信息。这些信息仅用于完成请求、排查故障和维护服务安全，不用于广告或营销。
 
-我们使用上述信息用于：
+相关信息仅在完成上述目的所需的期间内保存，不再需要时删除。
 
-- 接收和处理反馈；
-- 展示服务器返回的提交状态；
-- 提供本地化赛事内容；
-- 维护和运行反馈服务及赛事内容服务。
+### 四、第三方服务
 
-请勿在反馈中填写密码、身份证件、支付信息或其他不必要的敏感个人信息。
+赛事内容由 Lumute 后端提供，数据来源包括 API‑SPORTS／API‑Football。加载队徽时，设备会直接连接 API‑SPORTS 图片服务，并向其传输 IP 地址及完成请求所需的网络信息。
 
-### 三、当前不会主动要求的信息
+相关服务商应仅在提供服务所需的范围内处理信息，并提供不低于本政策及适用要求的隐私保护。API‑SPORTS 的信息处理、安全措施及查询、删除渠道见其[隐私政策](https://api-sports.io/privacy)。我们不出售个人信息，也不将相关信息用于第三方广告投放。
 
-当前版本不会要求或主动收集您的姓名、电子邮箱、电话号码、精确位置、通讯录、照片、音频或视频、健康数据、支付信息、广告标识符、设备型号、Apple 账户信息或 Apple 登录信息。
+### 五、联系与删除
 
-当前版本不会申请定位、相机、相册、通讯录、麦克风、日历、蓝牙、健康数据或 App Tracking Transparency 追踪权限。
+您可以通过 **support@lumute.com** 提出隐私问题，或申请查询、更正、删除与您有关的信息。对于基于同意进行的信息处理，您也可以申请撤回同意。我们仅要求提供处理请求所必需的核实信息。
 
-### 四、服务器与共享
+如果您主动发送邮件，我们仅使用您的邮箱地址和邮件内容回复、处理您的请求，并在事项处理完成后删除相关邮件。
 
-反馈留言和后端所需的语言信息会发送至 Lumute 后端服务，用于处理反馈。足球赛事数据由 API-Football 提供。
+### 六、政策更新
 
-### 五、保存与删除
-
-对于已经处理完成的用户意见或反馈，服务器会不定期清理。任何此类反馈数据的保存时间最长不超过一年。“不定期清理”不表示固定清理周期，也不保证立即删除。
-
-### 六、政策更新与联系我们
-
-当 App 功能或信息处理方式发生变化时，我们可能更新本政策，并在本页面公布更新内容和日期。
-
-如有隐私问题或希望提出删除请求，请联系 **support@lumute.com**。我们不承诺具体的回复或处理完成时间。
+信息处理方式发生变化时，我们会更新本政策并注明日期。需要另行告知或取得同意的，我们会在相关处理开始前完成。
 
 ---
 
 ## 日本語
 
-**最終更新日：2026年9月20日**
+**最終更新日：2026年10月11日**
 
-本プライバシーポリシーは、Lumute の利用時に App が取り扱う情報を説明します。Lumute は現在、サッカーの日程、スコア、チームフォーム、試合サマリー、試合インサイト、フィードバック機能を提供しています。
+Lumute は、登録やログインなしで利用できるサッカー情報・分析サービスです。本ポリシーは、Lumute の利用時における情報の取扱いを説明します。
 
-### 1. 取り扱う情報
+### 1. サービス提供に必要な情報
 
-フィードバックを送信すると、Lumute は次の情報を取り扱います。
+App は、対応するコンテンツを返すために、言語設定、バージョン識別子、照会する試合やチームの識別番号を Lumute のバックエンドへ送信します。言語設定は iOS が管理しており、システム設定から変更できます。これらの情報をユーザープロファイルの作成や広告目的の追跡には使用しません。
 
-- フィードバックフォームに入力したメッセージ
-- 選択された言語をサポートするために必要な言語情報（言語コードとして送信される場合があります）
-- サーバーが返す送信状態とメッセージ
+### 2. 端末のアクセス権限
 
-現在のフィードバック機能では、アカウントやログインは必要ありません。現在のフィードバックフローには、1つのメッセージ入力欄と送信状態の表示があります。公開受信箱、フィードバック履歴、フィードバック詳細、最新の返信画面は提供していません。
+サッカー情報の閲覧に氏名、メールアドレス、電話番号の提供は不要です。App は、位置情報、カメラ、写真、連絡先、マイクなどの機微な権限を要求せず、広告、ユーザー行動分析、ソーシャルログインの SDK を組み込んでいません。
 
-現在のフィードバックリクエストでは、一時 ID、匿名 ID、アカウント ID、feedback ID を作成または送信しません。
+### 3. ネットワーク情報と診断情報
 
-### 2. 利用目的
+ネットワークサービスの提供と障害調査のため、IP アドレス、リクエスト時刻、要求されたリソース、エラー情報など、必要なネットワーク情報と診断情報を取り扱います。これらはリクエストの処理、障害の調査、サービスの安全性の維持にのみ使用し、広告やマーケティングには使用しません。
 
-上記の情報は、次の目的に限って利用します。
+これらの情報は、上記の目的に必要な期間のみ保存し、不要になった時点で削除します。
 
-- フィードバックを受け付けて処理するため
-- サーバーが返す送信状態を表示するため
-- 多言語のサッカー情報を提供するため
-- フィードバックサービスとサッカー情報サービスを運用するため
+### 4. 第三者サービス
 
-フィードバックには、パスワード、本人確認書類、決済情報、その他不要な機微情報を入力しないでください。
+サッカー情報は Lumute のバックエンドから提供され、データソースには API‑SPORTS／API‑Football が含まれます。チームのロゴを読み込む際、端末は API‑SPORTS の画像サービスへ直接接続し、IP アドレスとリクエストの処理に必要なネットワーク情報を送信します。
 
-### 3. 現在要求しない情報
+関連するサービス提供者には、サービス提供に必要な範囲に限って情報を処理し、本ポリシーと適用される要件を下回らないプライバシー保護を提供することを求めます。API‑SPORTS の情報の取扱い、安全対策、情報へのアクセスや削除の申請窓口については、同社の[プライバシーポリシー](https://api-sports.io/privacy)をご覧ください。当方は個人情報を販売せず、第三者の広告配信にも使用しません。
 
-現在のバージョンでは、氏名、メールアドレス、電話番号、正確な位置情報、連絡先、写真、音声・動画、健康情報、決済情報、広告識別子、端末モデル、Apple Account 情報、Apple サインイン情報を要求または積極的に収集しません。
+### 5. お問い合わせと削除
 
-位置情報、カメラ、写真、連絡先、マイク、カレンダー、Bluetooth、健康情報、App Tracking Transparency の権限も要求しません。
+プライバシーに関するご質問、ご自身に関する情報の確認・訂正・削除の申請は、**support@lumute.com** までご連絡ください。同意に基づく情報処理については、同意の撤回も申請できます。申請への対応に必要な確認情報のみを求めます。
 
-### 4. サーバーと共有
+ご自身の意思でメールを送信された場合、メールアドレスと本文は返信とご依頼への対応にのみ使用し、対応が完了した後に関連メールを削除します。
 
-フィードバックメッセージとバックエンドに必要な言語情報は、フィードバックを処理するため Lumute のバックエンドサービスへ送信されます。サッカーの試合データは API-Football が提供します。
+### 6. ポリシーの更新
 
-### 5. 保存と削除
-
-処理が完了したユーザーの意見またはフィードバックは、サーバー上で不定期に削除されます。このようなフィードバックデータの保存期間は最長でも1年です。「不定期に削除される」とは、固定された削除周期を意味せず、直ちに削除されることを保証するものでもありません。
-
-### 6. 更新とお問い合わせ
-
-App の機能または情報の取扱いが変更された場合、本ポリシーを更新することがあります。更新内容と日付は本ページで公開します。
-
-プライバシーに関する質問または削除の申請は **support@lumute.com** までご連絡ください。具体的な返信または完了時期はお約束していません。
+情報の取扱いが変更された場合、本ポリシーと更新日を更新します。別途の通知や同意が必要な場合は、該当する情報処理を開始する前に行います。
 
 ---
 
 ## Español
 
-**Última actualización: 20 de septiembre de 2026**
+**Última actualización: 11 de octubre de 2026**
 
-Esta Política de privacidad explica qué información trata Lumute cuando utiliza la App. Actualmente, Lumute ofrece calendarios, resultados, estado de los equipos, resúmenes, análisis de partidos y una función de Feedback.
+Lumute ofrece información y análisis de fútbol sin necesidad de registrarse ni iniciar sesión. Esta política explica cómo se trata la información cuando utiliza Lumute.
 
-### 1. Información que tratamos
+### 1. Información necesaria para prestar el servicio
 
-Cuando envía Feedback, Lumute trata:
+La App envía al backend de Lumute la configuración de idioma, un identificador de versión y los identificadores de los partidos o equipos consultados para devolver el contenido correspondiente. iOS gestiona el idioma, que puede cambiarse en los ajustes del sistema. Esta información no se utiliza para crear perfiles de usuarios ni para el seguimiento publicitario.
 
-- el mensaje que escribe en el formulario de Feedback;
-- la información de idioma necesaria para el idioma seleccionado, que puede enviarse como código de idioma;
-- el estado del envío y el mensaje devuelto por el servidor.
+### 2. Permisos del dispositivo
 
-La función actual de Feedback no requiere una cuenta ni iniciar sesión. El flujo actual tiene un único campo para el mensaje y un resultado con el estado del envío. No ofrece una bandeja de entrada pública, historial de Feedback, detalles de Feedback ni una vista de las respuestas más recientes.
+No necesita facilitar su nombre, correo electrónico ni número de teléfono para consultar información de fútbol. La App no solicita permisos sensibles como ubicación, cámara, fotos, contactos o micrófono, ni integra SDK de publicidad, análisis del comportamiento de usuarios o inicio de sesión social.
 
-Las solicitudes actuales de Feedback no crean ni envían un ID temporal, ID anónimo, ID de cuenta ni feedback ID.
+### 3. Información de red y diagnóstico
 
-### 2. Finalidades del tratamiento
+Para prestar servicios de red e investigar fallos, se trata la información de red y diagnóstico necesaria, incluidas direcciones IP, horas de solicitud, recursos solicitados e información de errores. Se utiliza únicamente para atender solicitudes, investigar fallos y mantener la seguridad del servicio, no para publicidad ni marketing.
 
-Utilizamos la información descrita para:
+Esta información se conserva solo durante el tiempo necesario para cumplir estos fines y se elimina cuando deja de ser necesaria.
 
-- recibir y procesar Feedback;
-- mostrar el estado del envío devuelto por el servidor;
-- proporcionar contenido futbolístico localizado;
-- operar y mantener los servicios de Feedback y contenido futbolístico.
+### 4. Servicios de terceros
 
-No incluya contraseñas, documentos de identidad, información de pago ni otra información personal sensible innecesaria en el Feedback.
+El contenido de fútbol se proporciona a través del backend de Lumute y sus fuentes de datos incluyen API‑SPORTS / API‑Football. Al cargar los escudos de los equipos, su dispositivo se conecta directamente al servicio de imágenes de API‑SPORTS y transmite su dirección IP y la información de red necesaria para atender la solicitud.
 
-### 3. Información que actualmente no solicitamos
+Se exige a los proveedores que traten la información únicamente en la medida necesaria para prestar sus servicios y que ofrezcan una protección de la privacidad no inferior a la establecida en esta política y los requisitos aplicables. Las prácticas de tratamiento, las medidas de seguridad y los canales de acceso y eliminación de API‑SPORTS se describen en su [Política de privacidad](https://api-sports.io/privacy). No vendemos información personal ni la utilizamos para publicidad de terceros.
 
-La versión actual no solicita ni recopila activamente su nombre, correo electrónico, número de teléfono, ubicación precisa, contactos, fotos, audio o vídeo, datos de salud, información de pago, identificador publicitario, modelo del dispositivo, información de Apple Account ni información de inicio de sesión con Apple.
+### 5. Contacto y eliminación
 
-La versión actual tampoco solicita acceso a la ubicación, cámara, fotos, contactos, micrófono, calendario, Bluetooth, datos de salud ni permiso de App Tracking Transparency.
+Escriba a **support@lumute.com** para plantear preguntas sobre privacidad o solicitar el acceso, la rectificación o la eliminación de información relacionada con usted. También puede retirar su consentimiento para el tratamiento basado en él. Solo solicitamos la información de verificación necesaria para atender su petición.
 
-### 4. Servidores y divulgación
+Si decide escribirnos por correo electrónico, utilizamos su dirección y el contenido del mensaje únicamente para responder y atender su petición, y eliminamos los correos relacionados una vez resuelto el asunto.
 
-El mensaje de Feedback y la información de idioma necesaria para el backend se envían al servicio backend de Lumute para procesar el Feedback. Los datos de los partidos de fútbol los proporciona API-Football.
+### 6. Actualizaciones de la política
 
-### 5. Conservación y eliminación
-
-Los comentarios o las opiniones de los usuarios cuyo tratamiento se haya completado se eliminan del servidor de forma ocasional y sin una frecuencia fija. Cualquier dato de este tipo se conserva durante un máximo de un año. La eliminación ocasional no implica un calendario fijo ni garantiza la eliminación inmediata.
-
-### 6. Actualizaciones y contacto
-
-Podemos actualizar esta política cuando cambien las funciones de la App o nuestras prácticas de tratamiento de información. Publicaremos el contenido y la fecha actualizados en esta página.
-
-Para preguntas sobre privacidad o solicitudes de eliminación, escriba a **support@lumute.com**. No prometemos un plazo concreto de respuesta o finalización.
+Actualizaremos esta política y su fecha cuando cambien nuestras prácticas de tratamiento. Cuando sea necesario informar por separado u obtener consentimiento, lo haremos antes de iniciar el tratamiento correspondiente.
